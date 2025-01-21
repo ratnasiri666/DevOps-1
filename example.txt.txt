@@ -1,2 +1,0 @@
-devops lab explanation
-from 1 to 10 experiments
